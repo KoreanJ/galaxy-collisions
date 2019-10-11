@@ -1,5 +1,5 @@
 # Galaxy Collisions Project
-# Developed in UCSD course, PHYS 141
+Originally developed in UCSD course, PHYS 141
 
 The purpose of this project is to understand how galaxies collide, how the particles interact with each other, and how we can represent those complex and immense collisions in Python. The integrators were written in C and developed by another student (I do not know his name and thus take NO credit for any of the algorithms written in C). 
 
